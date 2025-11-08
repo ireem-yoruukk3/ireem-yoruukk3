@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İrem YÖRÜK</h1>
+<h1 align="center">Hi , I'm İrem YÖRÜK</h1>
 <h3 align="center">I am a data analyst in Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
